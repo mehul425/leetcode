@@ -20,6 +20,3 @@ class Solution {
     }
 }
 // @lc code=end
-
-""  "aec"
-0
